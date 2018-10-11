@@ -1,0 +1,2 @@
+# bb-reports-templates
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/656f7c994a894fa5ae94603d55221f87)](https://app.codacy.com/app/bbptest0001/bb-reports-templates?utm_source=github.com&utm_medium=referral&utm_content=IsrSahilMk/bb-reports-templates&utm_campaign=Badge_Grade_Dashboard)
